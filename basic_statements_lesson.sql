@@ -5,54 +5,12 @@
 -- 3 WHERE [filters we want applied to that data]
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 -- SELECT can be used by iteself
 -- FORMAT: SELECT [thing]
 
 SELECT "Hello World";
 
 SELECT 2+2;
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 -- To pull back data from the database, we have to incorporate our 
@@ -80,25 +38,6 @@ FROM product;
 
 SELECT *
 FROM product;
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 -- To filter rows, we need to use the WHERE clause
