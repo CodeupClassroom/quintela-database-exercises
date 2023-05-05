@@ -77,7 +77,7 @@ WHERE customer_id = (
 
 -- Table Subquery
 
--- Let's get the purchases of all customers 
+-- Let's get the purchases of all customers who live in 22821
 SELECT *
 FROM customer;
 
